@@ -1,0 +1,55 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = HATTHA BANK PROJECT-1F
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, VIP BANKING
+
+## Media
+
+### Title
+map_A5CA31AF_A845_38BB_41B0_7ED7D8634970.label = 3.20 OFFICE TOWER-9F-MINI MAP
+panorama_AB5B507C_A7C7_37E4_41D8_84892AC474C1.label = 9F_Lobby Area 1
+panorama_ACA14BF1_A7C7_08FF_41E1_D6EAE42D89B5.label = 9F_Lobby Area 9
+panorama_ACA15CBF_A7C7_0F63_41E4_3F4B3221EEE8.label = 9F_Lobby Area 7
+panorama_ACA1AC6D_A7C7_0FE4_4196_9936D3074D3C.label = 9F_Lobby Area 5
+panorama_ACA1BD96_A7C7_0924_41E2_1A413AE12F6B.label = 9F_Lobby Area 3
+panorama_ACAE0BC0_A7C5_091D_41D0_6106BD0C6429.label = 9F_VP Office 4
+panorama_ACAE696C_A7C7_09E5_41DE_D93CC858CE04.label = 9F_Meeting Room 1
+panorama_ACAE8209_A7C7_1B2C_4194_6DAC9C3134B0.label = 9F_Lobby Area 12
+panorama_ACAE821E_A7C7_7B25_41E4_63C6F68C837B.label = 9F_Lobby Area 14
+panorama_ACAE851B_A7C7_192C_41E0_4C867C6E7FDB.label = 9F_Lobby Area 8
+panorama_ACAE910B_A7C7_1923_41E3_5D0ADA5B6455.label = 9F_Lobby Area 16
+panorama_ACAE9344_A7C7_3925_41DD_FAF3090A78FD.label = 9F_Lobby Area 10
+panorama_ACAE953F_A7C7_F963_41A9_17DBE236CBA2.label = 9F_Lobby Area 6
+panorama_ACAE9871_A7C7_17FF_41C7_C6FAD021A7A3.label = 9F_Lobby Area 17
+panorama_ACAE9A31_A7C7_0B7C_41DD_D45D0790BE40.label = 9F_Lobby Area 13
+panorama_ACAEB9BA_A7C7_096C_41D6_3BAD2D342CCC.label = 9F_Lobby Area 11
+panorama_ACAED90F_A7C7_0923_41DE_768B22F67447.label = 9F_Lobby Area 15
+panorama_ACAF2626_A7C7_1B64_41E3_CC642D535BB2.label = 9F_Lobby Area 4
+panorama_ACAFA521_A7C6_F91E_41D9_953D7094EDCF.label = 9F_VP Office 1
+panorama_ACAFBE5F_A7C7_0B23_41E0_34E93A173154.label = 9F_Meeting Room R3
+panorama_ACAFD3F0_A7C5_18FD_41CC_32DDB35488EF.label = 9F_VP Office 3
+panorama_ACAFD65D_A7C7_1B27_41E1_9C9C0EDE4414.label = 9F_Meeting Room R2
+panorama_ACAFDC22_A7C5_0F62_41E1_26249732C289.label = 9F_VP Office 2
+panorama_ACAFE167_A7C7_39E3_41E0_27079D7E8E42.label = 9F_Lobby Area 18
+panorama_ACAFE483_A7C5_3F23_41DD_4CE87933891E.label = 9F_VP Office 5
+panorama_ACAFE677_A7C7_3BE4_41DC_D99770A67ED6.label = 9F_Lobby Area 2
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
